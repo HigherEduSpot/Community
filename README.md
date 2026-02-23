@@ -6,6 +6,8 @@ HigherEduSpot is a scientific knowledge infrastructure for higher education.
 
 HigherEduSpot™ - Empowering THE Higher Education™.
 
+# About HigherEduSpot
+
 HigherEduSpot™ is a scientific knowledge infrastructure advancing research dissemination, scholarly collaboration, institutional visibility, and interdisciplinary communication in higher education.
 
 Tele Higher Ed (THE)™ is its integrated ecosystem.
