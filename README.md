@@ -4,10 +4,6 @@ Welcome to **HigherEduSpot Community**! 🎉
 
 HigherEduSpot is a scientific knowledge infrastructure for higher education.
 
-HigherEduSpot™ - Empowering THE Higher Education™.
-
-# About HigherEduSpot
-
 HigherEduSpot™ is a scientific knowledge infrastructure advancing research dissemination, scholarly collaboration, institutional visibility, and interdisciplinary communication in higher education.
 
 Tele Higher Ed (THE)™ is its integrated ecosystem.
@@ -40,3 +36,7 @@ This repository is dedicated to **questions and discussions about site developme
 ---
 
 💡 **Tip:** Make sure to provide as much detail as possible when asking technical questions, so the community can support you faster.
+
+HigherEduSpot™ - Empowering THE Higher Education™.
+
+Team HigherEduSpot
